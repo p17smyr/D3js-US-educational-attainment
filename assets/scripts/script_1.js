@@ -184,7 +184,7 @@ function donutChart() {
                 return tip;
             }
             // ===========================================================================================
-               
+        }); 
     }
 
     // getter and setter functions. See Mike Bostocks post "Towards Reusable Charts" for a tutorial on how this works.
